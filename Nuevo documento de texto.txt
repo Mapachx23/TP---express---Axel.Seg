@@ -1,0 +1,5 @@
+arrayConcesionarias.forEach((concesionaria)=>{
+    concesionaria.autos.forEach((auto)=>{
+        // Aca le puedo pedir al auto cualquiera de sus propiedades
+    })
+})
